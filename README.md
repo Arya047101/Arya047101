@@ -1,6 +1,5 @@
-# Arya Vishukumar 
+# Hi there ! I am Arya 
 ### ECE Student | Digital System Design | FPGA | Computer Architecture  
-
 ECE student building FPGA-based digital systems, with interests in computer architecture, embedded engineering, and software-enabled system design.
 
 ---
@@ -73,3 +72,9 @@ Implemented modular digital components with simulation and timing validation.
 **LinkedIn:** https://linkedin.com/in/yourprofile  
 **Email:** yourprofessionalemail@email.com -->
 
+### 🛠 Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,cpp,c,cs,java,html,css,react,aws" />
+  </a>
+</p>
