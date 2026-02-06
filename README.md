@@ -71,9 +71,9 @@ Electronics and Communication Engineering student focused on Digital System Desi
 <img src="https://github-contributor-stats.vercel.app/api?username=Arya047101&limit=5&theme=dark&combine_all_yearly_contributions=true" width="49%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya047101&layout=compact&theme=dark" />
-</p>
+</p> -->
 
 
 ---
