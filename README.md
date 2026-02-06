@@ -61,12 +61,12 @@ Electronics and Communication Engineering student focused on Digital System Desi
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arya047101&show_icons=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arya047101&show_icons=true&locale=en&theme=dark" />
 </p>
 
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Arya047101&theme=dark&hide_border=false" width="49%" />
-<img src="https://github-contributor-stats.vercel.app/api?username=Arya&limit=5&theme=dark&combine_all_yearly_contributions=true" width="49%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Arya047101&limit=5&theme=dark&combine_all_yearly_contributions=true" width="49%" />
 </p>
 
 <p align="center">
@@ -112,6 +112,3 @@ Electronics and Communication Engineering student focused on Digital System Desi
 </a>
 
 </p>
-
-
-
