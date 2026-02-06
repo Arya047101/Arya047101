@@ -1,16 +1,75 @@
-## Hi there 👋
+# Arya Vishukumar 
+### ECE Student | Digital System Design | FPGA | Computer Architecture  
 
-<!--
-**Arya047101/Arya047101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student building FPGA-based digital systems, with interests in computer architecture, embedded engineering, and software-enabled system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--## Featured Projects
+
+### 🔹 FPGA-Based Digital Filter  
+Designed and implemented an RTL FIR filter with verification testbenches and resource analysis.  
+**Tech:** Verilog, Vivado  
+👉 https://github.com/yourusername/project-link
+
+---
+
+### 🔹 Embedded Monitoring System  
+Developed a real-time sensor monitoring system with structured data acquisition and visualization.  
+**Tech:** C/C++, Microcontroller, Python  
+👉 https://github.com/yourusername/project-link
+
+---
+
+### 🔹 Digital System Design Project  
+Implemented modular digital components with simulation and timing validation.  
+**Tech:** Verilog / VHDL  
+👉 https://github.com/yourusername/project-link
+
+--- -->
+
+## Technical Domains
+- Digital System Design  
+- FPGA / RTL Design  
+- Computer Architecture  
+- Embedded Systems (Exploring)  
+
+---
+
+## Languages
+- Verilog  
+- C/C++  
+- Python  
+
+---
+
+<!-- ## Tools
+- Xilinx Vivado / Intel Quartus  
+- Git  
+- MATLAB / NumPy  
+
+---
+
+## Current Focus
+- Building medium-scale FPGA systems  
+- Strengthening computer architecture fundamentals  
+- Exploring hardware–software co-design  
+
+---
+
+## Engineering Interests
+- Scalable digital architectures  
+- Real-time signal processing  
+- Efficient compute systems  
+
+--- -->
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+<!-- ## Contact
+**LinkedIn:** https://linkedin.com/in/yourprofile  
+**Email:** yourprofessionalemail@email.com -->
+
