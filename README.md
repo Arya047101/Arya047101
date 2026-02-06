@@ -65,12 +65,12 @@ Electronics and Communication Engineering student focused on Digital System Desi
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Arya&theme=dark&hide_border=false" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Arya047101&theme=dark&hide_border=false" width="49%" />
 <img src="https://github-contributor-stats.vercel.app/api?username=Arya&limit=5&theme=dark&combine_all_yearly_contributions=true" width="49%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya047101&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Electronics and Communication Engineering student focused on Digital System Desi
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arya&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Arya047101&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ---
@@ -114,5 +114,4 @@ Electronics and Communication Engineering student focused on Digital System Desi
 </p>
 
 
-<p>Electronics and Communication Engineering student with a strong focus on Digital System Design, FPGA-based development, Computer Architecture, and VLSI. Actively building hardware-oriented systems while expanding proficiency in embedded platforms and software development to support hardware–software integration. Particularly interested in low-level implementation, performance optimization, and resource-efficient digital design.</p>
 
