@@ -4,19 +4,21 @@
 Hardware Design | Computer Architecture | FPGA | VLSI | Embedded & Software Systems
 </h3>
 
+---
+
 <p align="center">
 Electronics and Communication Engineering student focused on Digital System Design, FPGA-based development, Computer Architecture, and VLSI. Actively building hardware systems while expanding into embedded and software domains to support hardware–software co-design. Particularly interested in low-level implementation, performance optimization, and resource-efficient digital design.
 </p>
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 
-- 🔭 Currently building **hardware-centric projects**
-- 🌱 Learning **Java** while strengthening system-level programming
-- 👯 Open to collaborating on **digital design, FPGA, and architecture projects**
-- 🤝 Seeking guidance in **advanced processor design and hardware acceleration**
-- 💬 Ask me about **Verilog, digital logic, and computer architecture**
+-  Currently building **hardware-centric projects**
+-  Learning **Java** while strengthening system-level programming
+-  Open to collaborating on **digital design, FPGA, and architecture projects**
+-  Seeking guidance in **advanced processor design and hardware acceleration**
+-  Ask me about **Verilog, digital logic, and computer architecture**
 
 ---
 
