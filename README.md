@@ -1,80 +1,34 @@
-# Hi there ! I am Arya 
-### ECE Student | Digital System Design | FPGA | Computer Architecture  
-ECE student building FPGA-based digital systems, with interests in computer architecture, embedded engineering, and software-enabled system design.
+<h1 align="center">Hi 👋, I'm Arya!</h1>
+<h3 align="center">Elec | CSE</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arya047101&label=Profile%20views&color=0e75b6&style=flat" alt="arya047101" /> </p>
 
-<!--## Featured Projects
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya047101" alt="arya047101" /></a> </p>
 
-### 🔹 FPGA-Based Digital Filter  
-Designed and implemented an RTL FIR filter with verification testbenches and resource analysis.  
-**Tech:** Verilog, Vivado  
-👉 https://github.com/yourusername/project-link
+- 🔭 I’m currently working on **project1**
 
----
+- 🌱 I’m currently learning **java**
 
-### 🔹 Embedded Monitoring System  
-Developed a real-time sensor monitoring system with structured data acquisition and visualization.  
-**Tech:** C/C++, Microcontroller, Python  
-👉 https://github.com/yourusername/project-link
+- 👯 I’m looking to collaborate on **project2**
 
----
+- 🤝 I’m looking for help with **project3**
 
-### 🔹 Digital System Design Project  
-Implemented modular digital components with simulation and timing validation.  
-**Tech:** Verilog / VHDL  
-👉 https://github.com/yourusername/project-link
+- 💬 Ask me about **verilog**
 
---- -->
+- 📫 How to reach me **gmail/instagram**
 
-## Technical Domains
-- Digital System Design  
-- FPGA / RTL Design  
-- Computer Architecture  
-- Embedded Systems (Exploring)  
-
----
-
-## Languages
-- Verilog  
-- C/C++  
-- Python  
-
----
-
-<!-- ## Tools
-- Xilinx Vivado / Intel Quartus  
-- Git  
-- MATLAB / NumPy  
-
----
-
-## Current Focus
-- Building medium-scale FPGA systems  
-- Strengthening computer architecture fundamentals  
-- Exploring hardware–software co-design  
-
----
-
-## Engineering Interests
-- Scalable digital architectures  
-- Real-time signal processing  
-- Efficient compute systems  
-
---- -->
-
-<!-- ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
----
-
-<!-- ## Contact
-**LinkedIn:** https://linkedin.com/in/yourprofile  
-**Email:** yourprofessionalemail@email.com -->
-
-### 🛠 Languages and Tools
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,c,cs,java,html,css,react,aws,verilog" />
-  </a>
+<a href="https://linkedin.com/in/this" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this" height="30" width="40" /></a>
+<a href="https://kaggle.com/this" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="this" height="30" width="40" /></a>
+<a href="https://instagram.com/this" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/this" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="this" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/this" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="this" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/this" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="this" height="30" width="40" /></a>
+<a href="https://discord.gg/this" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="this" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arya047101&show_icons=true&locale=en" alt="arya047101" /></p>
