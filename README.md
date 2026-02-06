@@ -75,6 +75,6 @@ Implemented modular digital components with simulation and timing validation.
 ### 🛠 Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,c,cs,java,html,css,react,aws" />
+    <img src="https://skillicons.dev/icons?i=py,js,cpp,c,cs,java,html,css,react,aws,verilog" />
   </a>
 </p>
