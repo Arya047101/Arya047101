@@ -13,10 +13,8 @@
 <td width="42%" valign="top">
 
 ### Profile
-
-
 <p>
-![Briefcase](https://img.shields.io/badge/-purple?style=social&logo=briefcase&logoColor=purple) Work/Projects
+<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlemaps&logoColor=F7DF1E" alt="C" />
 <br>
 ![Location](https://img.shields.io/badge/-purple?style=social&logo=google-maps&logoColor=purple) Shivamogga, India
 <br>
