@@ -43,8 +43,6 @@ Pursuing Electronics and Communication Engineerings in National Institute of Tec
 
 <td width="58%" valign="top">
 
-### Languages
-
 <p align="left">
 
 **Languages:**
