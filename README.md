@@ -26,9 +26,10 @@
     <img src="https://cdn.simpleicons.org/googlescholar/F7DF1E" width="22" />
     <span style="color: white; font-family: sans-serif;">National Institute of Technology, Surathkal</span>
   </div>
+  <br/>
 
   <div style="display: flex; align-items: center; gap: 15px;">
-    <img src="https://cdn.simpleicons.org/book/F7DF1E" width="22" />
+    <img src="https://cdn.simpleicons.org/carrd/F7DF1E" width="22" />
     <span style="color: white; font-family: sans-serif;">Digital Roles | VLSI</span>
   </div>
 
@@ -68,9 +69,7 @@ Pursuing Electronics and Communication Engineerings in National Institute of Tec
   <img src="https://img.shields.io/badge/Logisim-F7DF1E??style=for-the-badge" alt="ltspice" />
 </p>
 
-<p>
 ![](https://streak-stats.demolab.com/?user=Arya047101&theme=dark&hide_border=false)<br/>
-</p>
 
 </td>
 </tr>
