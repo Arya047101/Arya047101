@@ -68,7 +68,7 @@ Pursuing Electronics and Communication Engineerings in National Institute of Tec
   <img src="https://img.shields.io/badge/Icarus_Verilog-F7DF1E??style=for-the-badge" alt="icarus" />
   <img src="https://img.shields.io/badge/Logisim-F7DF1E??style=for-the-badge" alt="ltspice" />
 </p>
-<br/>
+
 ![](https://streak-stats.demolab.com/?user=Arya047101&theme=dark&hide_border=false)<br/>
 </td>
 </tr>
