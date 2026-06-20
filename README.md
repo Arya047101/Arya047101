@@ -31,20 +31,20 @@ BC Institute of Technology
 ![Education](https://img.shields.io/badge/-purple?style=social&logo=googlescholar&logoColor=purple) Education
 
 
-<div style="background-color: #333333; padding: 10px; border-radius: 5px; color: #a020f0; display: inline-block; width: 100%;">
+<div style="background-color: #333333; padding: 15px; border-radius: 8px; display: inline-block; width: 100%;">
   
-  <p style="margin: 5px 0; color: #a020f0;">
-    <img src="https://cdn.simpleicons.org/briefcase/a020f0" width="16" height="16" /> 
+  <p style="margin: 5px 0; display: flex; align-items: center;">
+    <img src="https://cdn.simpleicons.org/user/a020f0" width="18" height="18" /> 
     <span style="color: white; margin-left: 10px;">My Projects</span>
   </p>
 
-  <p style="margin: 5px 0; color: #a020f0;">
-    <img src="https://cdn.simpleicons.org/googlemaps/a020f0" width="16" height="16" /> 
+  <p style="margin: 5px 0; display: flex; align-items: center;">
+    <img src="https://cdn.simpleicons.org/googlemaps/a020f0" width="18" height="18" /> 
     <span style="color: white; margin-left: 10px;">Shivamogga, India</span>
   </p>
 
-  <p style="margin: 5px 0; color: #a020f0;">
-    <img src="https://cdn.simpleicons.org/googlescholar/a020f0" width="16" height="16" /> 
+  <p style="margin: 5px 0; display: flex; align-items: center;">
+    <img src="https://cdn.simpleicons.org/googlescholar/a020f0" width="18" height="18" /> 
     <span style="color: white; margin-left: 10px;">Education</span>
   </p>
 
