@@ -68,6 +68,10 @@ Pursuing Electronics and Communication Engineerings in National Institute of Tec
   <img src="https://img.shields.io/badge/Logisim-F7DF1E??style=for-the-badge" alt="ltspice" />
 </p>
 
+<p>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=idk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
+
 </td>
 </tr>
 </table>
