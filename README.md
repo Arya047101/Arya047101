@@ -12,21 +12,18 @@
 <tr>
 <td width="42%" valign="top">
 
-### Profile
+### About Me
 <p>
-<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlemaps&logoColor=F7DF1E" alt="C" />
+<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlemaps&logoColor=F7DF1E" alt="C" /> Mangaluru, India 
 <br>
-![Location](https://img.shields.io/badge/-purple?style=social&logo=google-maps&logoColor=purple) Shivamogga, India
+<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlescholar&logoColor=F7DF1E" alt="C" /> National Institute of Technology, Surathkal 
 <br>
-![Education](https://img.shields.io/badge/-purple?style=social&logo=googlescholar&logoColor=purple) Education
+<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=carrd&logoColor=F7DF1E" alt="C" /> Digital Roles | VLSI
 
 
 </p>
-
-
 <br>
-
-Electronics & Communication Engineering student passionate about digital hardware, embedded systems and modern VLSI workflows. I enjoy building FPGA projects, experimenting with RTL design and continuously exploring hardware verification methodologies.
+Pursuing Electronics and Communication Engineerings in National Institute of Technology. Working on Digital Design Projects which includes Verilog and Verification and mostly involves working with FPGA. 
 
 </td>
 
