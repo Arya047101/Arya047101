@@ -3,7 +3,7 @@
 
 <p align="center">
   Electronics & Communication Engineering Student<br>
-  Digital Design • Embedded Systems • VLSI
+  Digital Design | Embedded Systems | VLSI
 </p>
 
 ---
@@ -118,25 +118,10 @@ A concise description of your project goes here. Mention the hardware, tools and
 
 ---
 
-## Connect
+## Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/arya-vishukumar-5396b1273/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://my-portfolio.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://linkedin.com/in/myprofile)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge)](https://twitter.com/myhandle)
 
 
