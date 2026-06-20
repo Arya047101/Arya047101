@@ -24,6 +24,11 @@
 Electronics & Communication Engineering Student</br>
 Bengaluru, India</br>
 BC Institute of Technology
+![Briefcase](https://img.shields.io/badge/-purple?style=social&logo=briefcase&logoColor=purple) Work/Projects
+<br>
+![Location](https://img.shields.io/badge/-purple?style=social&logo=google-maps&logoColor=purple) Shivamogga, India
+<br>
+![Education](https://img.shields.io/badge/-purple?style=social&logo=googlescholar&logoColor=purple) Education
 </p>
 
 
