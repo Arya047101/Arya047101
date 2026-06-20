@@ -69,7 +69,7 @@ Pursuing Electronics and Communication Engineerings in National Institute of Tec
 </p>
 
 <p>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arya047101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=Arya047101&theme=dark&hide_border=false)<br/>
 </p>
 
 </td>
