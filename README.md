@@ -29,6 +29,26 @@ BC Institute of Technology
 ![Location](https://img.shields.io/badge/-purple?style=social&logo=google-maps&logoColor=purple) Shivamogga, India
 <br>
 ![Education](https://img.shields.io/badge/-purple?style=social&logo=googlescholar&logoColor=purple) Education
+
+
+<div style="background-color: #333333; padding: 10px; border-radius: 5px; color: #a020f0; display: inline-block; width: 100%;">
+  
+  <p style="margin: 5px 0; color: #a020f0;">
+    <img src="https://cdn.simpleicons.org/briefcase/a020f0" width="16" height="16" /> 
+    <span style="color: white; margin-left: 10px;">My Projects</span>
+  </p>
+
+  <p style="margin: 5px 0; color: #a020f0;">
+    <img src="https://cdn.simpleicons.org/googlemaps/a020f0" width="16" height="16" /> 
+    <span style="color: white; margin-left: 10px;">Shivamogga, India</span>
+  </p>
+
+  <p style="margin: 5px 0; color: #a020f0;">
+    <img src="https://cdn.simpleicons.org/googlescholar/a020f0" width="16" height="16" /> 
+    <span style="color: white; margin-left: 10px;">Education</span>
+  </p>
+
+</div>
 </p>
 
 
