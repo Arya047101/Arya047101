@@ -134,13 +134,13 @@ Electronics & Communication Engineering student passionate about digital hardwar
 
 ### Project One
 
-A concise description of your project goes here. Mention the hardware, tools and objective in two or three sentences.
+A repository containing all of my university projects and learnings across all subjects and domains. 
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_ONE)
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<a href="https://github.com/Arya047101/Projects">
 <img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -175,7 +175,7 @@ A concise description of your project goes here. Mention the hardware, tools and
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/arya-vishukumar-5396b1273/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -190,8 +190,6 @@ A concise description of your project goes here. Mention the hardware, tools and
 <a href="mailto:YOUR_EMAIL@example.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/User%20%26%20Faces/user-line.svg" width="100" height="100"/>
 </p>
 
 
