@@ -42,10 +42,12 @@ Electronics & Communication Engineering student passionate about digital hardwar
 
 **Languages:**
 <p align="left">
-  <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Verilog-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Verilog-F7DF1E?style=for-the-badge&logo=velog&logoColor=black" alt="Verilog" />
+  <img src="https://img.shields.io/badge/System_Verilog-F7DF1E?style=for-the-badge" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/TCL-F7DF1E?style=for-the-badge" alt="TCL" />
 </p>
 
 **Frameworks:**
