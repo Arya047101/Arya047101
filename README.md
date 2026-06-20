@@ -14,11 +14,11 @@
 
 ### Profile
 
-<table>
-<tr><td>🎓</td><td><b>Electronics & Communication Engineering Student</b></td></tr>
-<tr><td>📍</td><td>Bengaluru, India</td></tr>
-<tr><td>🏛️</td><td>ABC Institute of Technology</td></tr>
-</table>
+
+<b>Electronics & Communication Engineering Student</b>
+Bengaluru, India
+BC Institute of Technology
+
 
 <br>
 
