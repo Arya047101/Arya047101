@@ -136,7 +136,7 @@ Electronics & Communication Engineering student passionate about digital hardwar
 
 A repository containing all of my university projects and learnings across all subjects and domains. 
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_ONE)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=Arya047101&repo=Projects&theme=github_dark&hide_border=true)](https://github.com/Arya047101/Projects)
 
 <p align="center">
 
