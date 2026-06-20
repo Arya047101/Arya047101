@@ -1,108 +1,138 @@
-<h1 align="center">Hi 👋, I'm Arya</h1>
+<h1 align="center">Hi, I'm Your Name</h1>
 
-<h3 align="center">
-Hardware Design | Computer Architecture | FPGA | VLSI | Embedded & Software Systems
-</h3>
+<p align="center">
+Electronics & Communication Engineering Student
+<br>
+Digital Design • Embedded Systems • VLSI
+</p>
+
+---
+
+## About
+
+I am an Electronics & Communication Engineering student with a growing interest in digital system design, hardware verification, embedded development, and modern VLSI workflows.
+
+My work primarily revolves around designing digital hardware using Verilog, experimenting with FPGA-based systems, and building embedded applications in C/C++. I also enjoy exploring computer architecture, hardware-software co-design, and verification methodologies as I continue expanding my skillset.
+
+---
+
+## Languages
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" height="42" alt="Verilog"/>&nbsp;
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/systemverilog.svg" height="42" alt="SystemVerilog"/>&nbsp;
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tcl.svg" height="42" alt="TCL"/>
+
+</p>
+
+---
+
+## Design & Development Tools
+
+### Design & Simulation
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/logisim.svg" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intel.svg" height="40" alt="Quartus Prime"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xilinx.svg" height="40" alt="Vivado"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kicad.svg" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ltspice.svg" height="40"/>
+
+</p>
+
+### Verification
+
+<p>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnu.svg" height="40" alt="Icarus Verilog"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/waveform.svg" height="40" alt="GTKWave"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/systemverilog.svg" height="40" alt="UVM"/>
+
+</p>
+
+### Hardware Platforms
+
+<p>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xilinx.svg" height="40" alt="FPGA"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stmicroelectronics.svg" height="40" alt="STM32"/>
+
+</p>
+
+---
+
+## Areas of Interest
+
+- Digital Logic Design
+- FPGA Development
+- Hardware Verification
+- Embedded Systems
+- VLSI Design
+- Robotics
+
+---
+
+## Featured Projects
+
+### Project One
+
+Short description of the project goes here. Explain the problem it solves, technologies used, and the hardware or software involved.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_ONE)
+
+---
+
+### Project Two
+
+Short description of the project goes here. Mention any FPGA board, microcontroller, or development tools used.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_TWO)
+
+---
+
+## Currently Learning
+
+- SystemVerilog
+- Universal Verification Methodology (UVM)
+- TCL Scripting
+- Advanced FPGA Design
+- Digital ASIC Design Flow
+
+---
+
+## Connect
+
+<p>
+
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+
+<br>
+
+<a href="https://yourportfolio.com">Portfolio</a>
+
+<br>
+
+<a href="mailto:yourmail@example.com">Email</a>
+
+</p>
 
 ---
 
 <p align="center">
-Electronics and Communication Engineering student focused on Digital System Design, FPGA-based development, Computer Architecture, and VLSI. Actively building hardware systems while expanding into embedded and software domains to support hardware–software co-design. Particularly interested in low-level implementation, performance optimization, and resource-efficient digital design.
-</p>
 
----
-
-###  Current Focus
-
--  Currently building **hardware-centric projects**
--  Learning **Java** while strengthening system-level programming
--  Open to collaborating on **digital design, FPGA, and architecture projects**
--  Seeking guidance in **advanced processor design and hardware acceleration**
--  Ask me about **Verilog, digital logic, and computer architecture**
-
----
-### 🧠 Languages
-
-<p align="left">
-<a href="https://www.verilog.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="margin-right:12px; margin-bottom:12px;"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arya047101&show_icons=true&locale=en&theme=dark" />
-</p> -->
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Arya047101&theme=dark&hide_border=false" height="170"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=Arya047101&limit=5&theme=dark&combine_all_yearly_contributions=true" height="170"/>
-</p>
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya047101&layout=compact&theme=dark" />
-</p> -->
-
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/arya-vishukumar-5396b1273/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right:14px;"/>
-</a>
-
-<a href="https://kaggle.com/this" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" style="margin-right:14px;"/>
-</a>
-
-<a href="https://instagram.com/this" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="margin-right:14px;"/>
-</a>
-
-<a href="https://codeforces.com/profile/this" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" style="margin-right:14px;"/>
-</a>
-
-<a href="https://www.leetcode.com/this" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" style="margin-right:14px;"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/this" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
-</a>
+<i>
+Every complex digital system begins with a single logic gate.
+</i>
 
 </p>
