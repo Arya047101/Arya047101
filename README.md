@@ -16,10 +16,10 @@
 
 
 <p>
+![Briefcase](https://img.shields.io/badge/Projects-Briefcase-purple?style=flat&logo=buffer&logoColor=white)
 Electronics & Communication Engineering Student</br>
 Bengaluru, India</br>
 BC Institute of Technology
-</ul>
 </p>
 
 
