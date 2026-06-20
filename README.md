@@ -15,9 +15,11 @@
 ### Profile
 
 
-<b>Electronics & Communication Engineering Student</b>
+<p>
+Electronics & Communication Engineering Student</b>
 Bengaluru, India
 BC Institute of Technology
+</p>
 
 
 <br>
