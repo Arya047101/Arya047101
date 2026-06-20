@@ -20,6 +20,7 @@
     <img src="https://cdn.simpleicons.org/googlemaps/F7DF1E" width="22" />
     <span style="color: white; font-family: sans-serif;">Mangaluru, India</span>
   </div>
+  <br/>
 
   <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 12px;">
     <img src="https://cdn.simpleicons.org/googlescholar/F7DF1E" width="22" />
