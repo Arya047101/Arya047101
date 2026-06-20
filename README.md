@@ -38,8 +38,6 @@ Electronics & Communication Engineering student passionate about digital hardwar
 
 <p align="left">
 
-## 🛠️ My Toolkit
-
 **Languages:**
 <p align="left">
   <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=black" alt="C" />
@@ -50,11 +48,18 @@ Electronics & Communication Engineering student passionate about digital hardwar
   <img src="https://img.shields.io/badge/TCL-F7DF1E?style=for-the-badge" alt="TCL" />
 </p>
 
-**Frameworks:**
+**Design & Development Tools:**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/LTSpice-F7DF1E??style=for-the-badge&logo=ltspice&logoColor=black" alt="ltspice" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-F7DF1E??style=for-the-badge&logo=amd&logoColor=black" alt="ltspice" />
+  <img src="https://img.shields.io/badge/Quartus_Prime-F7DF1E??style=for-the-badge&logo=intel&logoColor=black" alt="ltspice" />
+  <img src="https://img.shields.io/badge/STM32-F7DF1E??style=for-the-badge&logo=stmicroelectronics&logoColor=black" alt="ltspice" />
+  <img src="https://img.shields.io/badge/Arduino-F7DF1E??style=for-the-badge&logo=arduino&logoColor=black" alt="ltspice" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-F7DF1E??style=for-the-badge&logo=raspberrypi&logoColor=black" alt="ltspice" />
+  <img src="https://img.shields.io/badge/MATLAB-F7DF1E??style=for-the-badge" alt="matlab" />
+  <img src="https://img.shields.io/badge/Icarus_Verilog-F7DF1E??style=for-the-badge" alt="icarus" />
+  <img src="https://img.shields.io/badge/Logisim-F7DF1E??style=for-the-badge" alt="ltspice" />
+  
 </p>
 
 **DevOps:**
