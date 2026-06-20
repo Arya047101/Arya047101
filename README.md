@@ -16,11 +16,11 @@
 
 
 <p>
-  <ul>
+<ul style="list-style-type: none; padding-left: 0;" role="list">
 <li>Electronics & Communication Engineering Student</b>
 <li>Bengaluru, India
 <li>BC Institute of Technology
-  </ul>
+</ul>
 </p>
 
 
