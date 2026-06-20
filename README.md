@@ -16,10 +16,9 @@
 
 
 <p>
-<ul style="list-style-type: none; padding-left: 0;" role="list">
-<li>Electronics & Communication Engineering Student</b>
-<li>Bengaluru, India
-<li>BC Institute of Technology
+Electronics & Communication Engineering Student</br>
+Bengaluru, India</br>
+BC Institute of Technology
 </ul>
 </p>
 
@@ -37,7 +36,7 @@ Electronics & Communication Engineering student passionate about digital hardwar
 <p align="left">
 
 <a href="https://en.cppreference.com/w/c">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 </a>&nbsp;
 
 <a href="https://en.cppreference.com/w/cpp">
