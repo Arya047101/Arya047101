@@ -16,7 +16,11 @@
 
 
 <p>
-![Briefcase](https://img.shields.io/badge/Projects-Briefcase-purple?style=flat&logo=buffer&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/briefcase/briefcase-original.svg" width="20" height="20" style="filter: invert(20%) sepia(90%) saturate(5000%) hue-rotate(270deg) brightness(80%);"> Briefcase Text
+
+<img src="https://raw.githubusercontent.com/mapicons/map-icons/master/icons/postal-code-prefix.svg" width="20" height="20" style="filter: invert(20%) sepia(90%) saturate(5000%) hue-rotate(270deg) brightness(80%);"> Location Text
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="20" height="20" style="filter: invert(20%) sepia(90%) saturate(5000%) hue-rotate(270deg) brightness(80%);"> Education Text
 Electronics & Communication Engineering Student</br>
 Bengaluru, India</br>
 BC Institute of Technology
