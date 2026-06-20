@@ -14,11 +14,24 @@
 
 ### About Me
 <p>
-<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlemaps&logoColor=F7DF1E" alt="C" /> Mangaluru, India 
-<br>
-<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlescholar&logoColor=F7DF1E" alt="C" /> National Institute of Technology, Surathkal 
-<br>
-<img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=carrd&logoColor=F7DF1E" alt="C" /> Digital Roles | VLSI
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlemaps&logoColor=F7DF1E" alt="Location" />
+    <span>Mangaluru, India</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=googlescholar&logoColor=F7DF1E" alt="Education" />
+    <span>National Institute of Technology, Surathkal</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/-212121?style=for-the-badge&logo=carrd&logoColor=F7DF1E" alt="Roles" />
+    <span>Digital Roles | VLSI</span>
+  </div>
+
+</div>
 
 
 </p>
