@@ -187,7 +187,8 @@ A concise description of your project goes here. Mention the hardware, tools and
 <a href="mailto:YOUR_EMAIL@example.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<i class="ri-user-line"></i>
+
+<img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/User%20%26%20Faces/user-line.svg"/>
 </p>
 
 
