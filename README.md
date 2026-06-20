@@ -16,14 +16,6 @@
 
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/briefcase/briefcase-original.svg" width="20" height="20" style="filter: invert(20%) sepia(90%) saturate(5000%) hue-rotate(270deg) brightness(80%);"> Briefcase Text
-
-<img src="https://raw.githubusercontent.com/mapicons/map-icons/master/icons/postal-code-prefix.svg" width="20" height="20" style="filter: invert(20%) sepia(90%) saturate(5000%) hue-rotate(270deg) brightness(80%);"> Location Text
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="20" height="20" style="filter: invert(20%) sepia(90%) saturate(5000%) hue-rotate(270deg) brightness(80%);"> Education Text
-Electronics & Communication Engineering Student</br>
-Bengaluru, India</br>
-BC Institute of Technology
 ![Briefcase](https://img.shields.io/badge/-purple?style=social&logo=briefcase&logoColor=purple) Work/Projects
 <br>
 ![Location](https://img.shields.io/badge/-purple?style=social&logo=google-maps&logoColor=purple) Shivamogga, India
@@ -31,24 +23,6 @@ BC Institute of Technology
 ![Education](https://img.shields.io/badge/-purple?style=social&logo=googlescholar&logoColor=purple) Education
 
 
-<div style="background-color: #333333; padding: 15px; border-radius: 8px; display: inline-block; width: 100%;">
-  
-  <p style="margin: 5px 0; display: flex; align-items: center;">
-    <img src="https://cdn.simpleicons.org/user/a020f0" width="18" height="18" /> 
-    <span style="color: white; margin-left: 10px;">My Projects</span>
-  </p>
-
-  <p style="margin: 5px 0; display: flex; align-items: center;">
-    <img src="https://cdn.simpleicons.org/googlemaps/a020f0" width="18" height="18" /> 
-    <span style="color: white; margin-left: 10px;">Shivamogga, India</span>
-  </p>
-
-  <p style="margin: 5px 0; display: flex; align-items: center;">
-    <img src="https://cdn.simpleicons.org/googlescholar/a020f0" width="18" height="18" /> 
-    <span style="color: white; margin-left: 10px;">Education</span>
-  </p>
-
-</div>
 </p>
 
 
@@ -68,9 +42,10 @@ Electronics & Communication Engineering student passionate about digital hardwar
 
 **Languages:**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Verilog-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 **Frameworks:**
