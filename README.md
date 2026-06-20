@@ -16,9 +16,11 @@
 
 
 <p>
-Electronics & Communication Engineering Student</b>
-Bengaluru, India
-BC Institute of Technology
+  <ul>
+<li>Electronics & Communication Engineering Student</b>
+<li>Bengaluru, India
+<li>BC Institute of Technology
+  </ul>
 </p>
 
 
