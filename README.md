@@ -1,143 +1,192 @@
+
 <h1 align="center">Hi, I'm Your Name</h1>
 
 <p align="center">
-Electronics & Communication Engineering Student
+  Electronics & Communication Engineering Student<br>
+  Digital Design • Embedded Systems • VLSI
+</p>
+
+---
+
+<table>
+<tr>
+<td width="42%" valign="top">
+
+### Profile
+
+<table>
+<tr><td>🎓</td><td><b>Electronics & Communication Engineering Student</b></td></tr>
+<tr><td>📍</td><td>Bengaluru, India</td></tr>
+<tr><td>🏛️</td><td>ABC Institute of Technology</td></tr>
+</table>
+
 <br>
-Digital Design • Embedded Systems • VLSI
-</p>
 
----
+Electronics & Communication Engineering student passionate about digital hardware, embedded systems and modern VLSI workflows. I enjoy building FPGA projects, experimenting with RTL design and continuously exploring hardware verification methodologies.
 
-## About
+</td>
 
-I am an Electronics & Communication Engineering student with a growing interest in digital system design, hardware verification, embedded development, and modern VLSI workflows.
+<td width="58%" valign="top">
 
-My work primarily revolves around designing digital hardware using Verilog, experimenting with FPGA-based systems, and building embedded applications in C/C++. I also enjoy exploring computer architecture, hardware-software co-design, and verification methodologies while continuously expanding my skillset.
+### Languages
 
----
+<p align="left">
 
-## Languages
+<a href="https://en.cppreference.com/w/c">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>
+</a>&nbsp;
 
-<p>
+<a href="https://en.cppreference.com/w/cpp">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
+</a>&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>&nbsp;
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+</a>&nbsp;
 
-</p>
+<a href="https://en.wikipedia.org/wiki/Verilog">
+<img src="https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge"/>
+</a>&nbsp;
 
-<p>
+<a href="https://accellera.org/downloads/standards/systemverilog">
+<img src="https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge"/>
+</a>&nbsp;
 
-<img src="https://img.shields.io/badge/Verilog-1A1A1A?style=for-the-badge&logo=verilog&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SystemVerilog-026AA7?style=for-the-badge" />
-
+<a href="https://www.tcl-lang.org/">
 <img src="https://img.shields.io/badge/TCL-E00000?style=for-the-badge"/>
+</a>
 
 </p>
 
----
+### Design & Development Tools
 
-## Design & Development Tools
+<p align="left">
 
-### Design & Simulation
+<a href="https://www.mathworks.com/products/matlab.html">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="42"/>
+</a>&nbsp;
 
-<p>
+<a href="https://www.kicad.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" height="42"/>
+</a>&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45"/>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" height="45"/>&nbsp;
-
+<a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html">
 <img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge"/>
+</a>&nbsp;
 
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-C80000?style=for-the-badge"/>
+<a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html">
+<img src="https://img.shields.io/badge/Vivado-C80000?style=for-the-badge"/>
+</a>&nbsp;
 
-<img src="https://img.shields.io/badge/Logisim-2C2C2C?style=for-the-badge"/>
+<a href="https://github.com/logisim-evolution/logisim-evolution">
+<img src="https://img.shields.io/badge/Logisim-444444?style=for-the-badge"/>
+</a>&nbsp;
 
+<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html">
 <img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge"/>
+</a>&nbsp;
 
-</p>
+<a href="https://steveicarus.github.io/iverilog/">
+<img src="https://img.shields.io/badge/Icarus%20Verilog-555555?style=for-the-badge"/>
+</a>&nbsp;
 
-### Verification
-
-<p>
-
-<img src="https://img.shields.io/badge/Icarus%20Verilog-4B5563?style=for-the-badge"/>
-
+<a href="http://gtkwave.sourceforge.net/">
 <img src="https://img.shields.io/badge/GTKWave-008080?style=for-the-badge"/>
+</a>&nbsp;
 
+<a href="https://accellera.org/downloads/standards/uvm">
 <img src="https://img.shields.io/badge/UVM-6A1B9A?style=for-the-badge"/>
+</a>&nbsp;
 
-</p>
-
-### Hardware Platforms
-
-<p>
-
+<a href="https://www.amd.com/en/products/adaptive-socs-and-fpgas.html">
 <img src="https://img.shields.io/badge/FPGA-00599C?style=for-the-badge"/>
+</a>&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45"/>&nbsp;
-
+<a href="https://www.st.com/">
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+</a>&nbsp;
+
+<a href="https://www.arduino.cc/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42"/>
+</a>&nbsp;
+
+<a href="https://www.raspberrypi.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="42"/>
+</a>
 
 </p>
 
----
-
-## Areas of Interest
-
-- Digital Logic Design
-- FPGA Development
-- Hardware Verification
-- Embedded Systems
-- VLSI Design
-- Robotics
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### Project One
 
-Brief description of your project.
+A concise description of your project goes here. Mention the hardware, tools and objective in two or three sentences.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_ONE)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_ONE)
 
----
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Project Two
 
-Brief description of your project.
+A concise description of your project goes here. Mention the hardware, tools and objective in two or three sentences.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_TWO)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=github_dark&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_TWO)
 
----
+<p align="center">
 
-## Currently Learning
+<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+<img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- SystemVerilog
-- Universal Verification Methodology (UVM)
-- TCL Scripting
-- Advanced FPGA Design
-- Digital ASIC Design Flow
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Connect
 
-<p>
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br><br>
+&nbsp;
 
-<a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<br><br>
+&nbsp;
 
-<a href="mailto:YOUR_EMAIL@example.com">Email</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
@@ -145,6 +194,6 @@ Brief description of your project.
 
 <p align="center">
 <i>
-Every complex digital system begins with a single logic gate.
+"Every complex digital system begins with a single logic gate."
 </i>
 </p>
