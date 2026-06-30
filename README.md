@@ -1,6 +1,6 @@
 # Hey! I'm Arya 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple) <img alt="Coding animation" src="./giphy.gif" width="20%" align="right" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple) <img alt="Coding animation" src="./giphy.gif" width="25%" align="right" />
 
 ---
 
