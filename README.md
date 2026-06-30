@@ -1,6 +1,6 @@
 # Hey! I'm Arya 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple) <img alt="Coding animation" src="./giphy.gif" width="25%" align="right" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Arya047101&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent) <img alt="Coding animation" src="./giphy.gif" width="25%" align="right" />
 
 ---
 
@@ -12,10 +12,11 @@
     </td>
     <td valign="top" width="40%" align="right">
       <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Arya047101&layout=donut-vertical&hide_title=true&langs_count=6&theme=highcontrast">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Arya047101&layout=donut-vertical&hide_title=true&langs_count=6&theme=highcontrast" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Arya047101&layout=donut-vertical&hide_title=true&langs_count=6&theme=transparent" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 
 ---
+
